@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there! 👋 I'm Ashish Kumar
+# Hi 👋, I'm Ashish Kumar
 
-### A passionate developer from India with a love for tech and gaming.
+### A passionate developer from India
 
 <img src="https://github.com/iIluminatixy.png" alt="Ashish Kumar" width="150" height="150" style="border-radius: 50%;" />
 
@@ -10,33 +10,50 @@
 
 ## 🚀 About Me
 
-Hey there! I'm Ashish Kumar, an 18-year-old who's super into technology and gaming. I come from Noida, Uttar Pradesh, and I truly believe in balancing logic with creativity. That's why I enjoy both coding and diving into gaming worlds.
+Hey there! I'm Ashish Kumar — a 18-year-old tech enthusiast and gaming fanatic from Noida, Uttar Pradesh. I believe in the perfect blend of logic and creativity, which is why I'm equally at home writing code and leading squads in the battlegrounds.
 
-I'm currently in my 2nd year of Computer Science & Engineering (Diploma) at Government Polytechnic Sahjanwa, Gorakhpur. I make sure to learn something new every single day, whether it's a cool programming concept or a new winning strategy in a game.
+Currently I'm in my 2nd Year of Computer Science & Engineering (Diploma) at Government Polytechnic Sahjanwa, Gorakhpur. Every day I'm learning something new — whether that's a new programming concept or a new strategy in the game.
 
-My love for gaming has taught me a lot. Playing games like BGMI has improved my strategic thinking and how I make decisions under pressure. On the other hand, Minecraft has sparked my creativity and problem-solving skills. These are skills that I find myself using all the time when I'm tackling coding challenges.
+Gaming has shaped me in ways beyond entertainment. BGMI sharpened my tactical thinking and decision-making under pressure, while Minecraft ignited my creativity and problem-solving instincts. These skills translate directly into how I approach coding challenges.
 
 ## 🚀 Projects
 
-Here are some of the projects I've been working on:
+| Project | Description | Links |
+|---|---|---|
+| Weather Forecasting Website | A sleek and modern weather application built with vanilla JavaScript, HTML, and CSS, leveraging the Open-Meteo API for accurate weather data and IP geolocation for initial location detection. | [GitHub](https://github.com/iIluminatixy/weather-app) |
+| Liquid Glass Notes | Liquid-Glass-Notes is a beautifully designed, modern, and visually appealing note-taking application with a unique "liquid glass" aesthetic. It offers a fluid and intuitive user experience for creating, organizing, and managing your thoughts. The application features animated backgrounds, subtle glassmorphism effects, and smooth transitions, making note-taking a delightful experience. | [GitHub](https://github.com/iIluminatixy/Liquid-Glass-Notes) |
+| Liquid Glass Calculator | A visually stunning and highly functional calculator application with a liquid glass aesthetic. This calculator offers multiple modes: Standard, Scientific, and Programmer, catering to a wide range of user needs. It features a sleek, modern UI with smooth animations and a responsive design. | [GitHub](https://github.com/iIluminatixy/calculator) |
 
-*   **Weather Forecasting Website:** A clean and modern weather app built using just JavaScript, HTML, and CSS. It uses the Open-Meteo API for accurate weather data and figures out your location based on your IP address. [Check it out on GitHub!](https://github.com/iIluminatixy/weather-app)
-*   **Liquid Glass Notes:** This is a beautiful and modern note-taking app with a cool "liquid glass" look. It's designed to be super easy and enjoyable to use for creating, organizing, and managing your notes. With animated backgrounds and smooth effects, taking notes becomes a delightful experience. [See the code on GitHub!](https://github.com/iIluminatixy/Liquid-Glass-Notes)
-*   **Liquid Glass Calculator:** A stunning and powerful calculator app that also features that cool liquid glass design. It's got different modes – Standard, Scientific, and Programmer – so it can handle all sorts of calculations. The user interface is sleek, modern, and works smoothly on any device. [Explore it on GitHub!](https://github.com/iIluminatixy/calculator)
+### Weather Forecasting Website
+
+**Technologies Used:** html, java, css
+
+### Liquid Glass Notes
+
+**Technologies Used:** html
+
+### Liquid Glass Calculator
+
+**Technologies Used:** html
 
 ## 🎓 Education
 
-I'm currently pursuing my Diploma in Computer Science and Engineering at Government Polytechnic Sahjanwa, Gorakhpur. I'm expected to graduate in August 2028.
+| Institution | Degree | Duration |
+|---|---|---|
+| Government Polytechnic Sahjanwa | Diploma | 2025-08 - 2028-08 |
+
+### Diploma in Computer Science and Engineering
+*Government Polytechnic Sahjanwa*
 
 ## 📞 Contact & Links
 
-Feel free to reach out to me!
+<div align="left">
 
-*   **Email:** ashishofficial775@gmail.com
+- 📫 How to reach me **ashishofficial775@gmail.com**
+
+</div>
 
 ## 🌐 Connect with Me
-
-Let's connect on social media!
 
 <div align="center">
 
@@ -45,8 +62,6 @@ Let's connect on social media!
 </div>
 
 ## 🛠️ Skills & Technologies
-
-Here's a glimpse of the technologies I'm comfortable working with:
 
 ### 💻 Programming Languages
 
@@ -74,11 +89,26 @@ Here's a glimpse of the technologies I'm comfortable working with:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iIluminatixy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<!-- The following sections require GitHub Action setup. See https://github.com/gautamkrishnar/blog-post-workflow for details. -->
-**Blog Posts:**
-*   Dev.to Posts: Requires [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) setup.
-*   Medium Posts: Requires [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) setup.
-*   Other Blog Posts: Requires [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) setup.
+<!-- DEVTO_BLOG:START -->
+<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
+<!-- It uses a GitHub Action to fetch and display recent posts. -->
+<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
+<!-- DEVTO_BLOG:END -->
+**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+
+<!-- MEDIUM_BLOG:START -->
+<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
+<!-- It uses a GitHub Action to fetch and display recent posts. -->
+<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
+<!-- MEDIUM_BLOG:END -->
+**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+
+<!-- BLOG_POST_LIST:START -->
+<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
+<!-- It uses a GitHub Action to fetch and display recent posts. -->
+<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
+<!-- BLOG_POST_LIST:END -->
+**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
 </div>
 
@@ -88,7 +118,7 @@ Here's a glimpse of the technologies I'm comfortable working with:
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-Thanks for stopping by my profile! 😊
+**Thank you for visiting my profile! 😊**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iIluminatixy&color=brightgreen&style=flat-square&label=Profile+Views)
 
