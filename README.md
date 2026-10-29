@@ -89,27 +89,6 @@ Gaming has shaped me in ways beyond entertainment. BGMI sharpened my tactical th
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iIluminatixy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<!-- DEVTO_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- DEVTO_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- MEDIUM_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- MEDIUM_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- BLOG_POST_LIST:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- BLOG_POST_LIST:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
 </div>
 
 ---
